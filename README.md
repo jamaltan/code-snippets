@@ -5,3 +5,5 @@ This repo save code snippets for myself
 - https://theia-ide.org/
 - https://rust-unofficial.github.io/too-many-lists/first-push.html
 
+## rust by practice
+- https://practice.rs/elegant-code-base.html
